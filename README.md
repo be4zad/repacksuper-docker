@@ -1,4 +1,4 @@
-# Repacksuper in Docker
+# Repacksuper v1.15.9 in Docker
 This is the minimalistic set of tools + a script for Linux for the automated
 ground-up repacking and flashing of the Samsung Galaxy super.img, replacing
 the stock Android system with something much less intrusive and obtrusive
