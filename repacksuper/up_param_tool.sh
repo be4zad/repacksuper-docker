@@ -3,8 +3,8 @@
 version=1.15.7
 
 system_required="tar lz4 file"
-script_dir=$(dirname $0)
-heimdall_path="$script_dir/heimdall"
+script_dir="/repacksuper"
+heimdall_path="/usr/bin/heimdall"
 unpack_dir="up_param"
 out="up_param.bin"
 

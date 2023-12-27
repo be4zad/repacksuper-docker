@@ -3,8 +3,8 @@
 version=1.15.9
 
 system_required="unzip tar file lz4"
-script_dir=$(dirname $0)
-heimdall_path="$script_dir/heimdall"
+script_dir="/repacksuper"
+heimdall_path="/usr/bin/heimdall"
 
 # Colors
 if [ ! $NO_COLOR ] && [ $TERM != "dumb" ]; then

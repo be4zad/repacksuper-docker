@@ -2,9 +2,9 @@
 # Copyleft 2021-2022 Uluruman
 version=1.15.8
 
-script_dir=$(dirname $0)
-lptools_path="$script_dir/lpunpack_and_lpmake"
-heimdall_path="$script_dir/heimdall"
+script_dir="/repacksuper"
+lptools_path="/usr/bin"
+heimdall_path="/usr/bin/heimdall"
 empty_product_path="$script_dir/misc/product.img"
 empty_system_ext_path="$script_dir/misc/system_ext.img"
 system_required="simg2img tar unxz lz4 unzip gzip jq file"
