@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+0f621cde70174978f62eacfb012a889b heimdall-frontend/CMakeFiles/heimdall-frontend_autogen
+98a09520fd3e077d0f5aac1c8fe9ad7a heimdall-frontend/qrc_mainwindow.cpp
+cd938a0a121f674c0624480876f1cfe8 heimdall-frontend/ui_aboutform.h
+4cc0467bc04343c93107fd2e9ec104b1 heimdall-frontend/ui_mainwindow.h
