@@ -1,2 +1,0 @@
-/usr/bin/ar qc libpit.a CMakeFiles/pit.dir/source/libpit.cpp.o
-/usr/bin/ranlib libpit.a
